@@ -9,7 +9,7 @@ I am a Senior software engineer and I love programming, writing, speaking and tr
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things bring's ideas to life.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=khekrncs&show_icons=true&theme=dracula&count_private=true) ![Github Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=khekrncs&langs_count=3&theme=dracula)
+![Github stats](https://github-readme-stats.vercel.app/api?username=khekrncs&show_icons=true&theme=dracula&count_private=true) 
 <!--
 **khekrncs/khekrncs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
