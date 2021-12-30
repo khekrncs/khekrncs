@@ -1,13 +1,11 @@
-### Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Kishore Karunakaran</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm <a href="https://coding2fun.in/" target="_blank">Kishore Karunakaran</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/khekrn)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://coding2fun.wordpress.com/)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=khekrn.khekrn)
 
-I am a Senior software engineer and I love programming, writing, speaking and traveling.
-
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things which bring's ideas to life.
+I'm a Senior software engineer who is working on building reliable and scalable financial systems. I enjoy using my obsessive attention to detail, my unequivocal love for building things that bring's ideas to life.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=khekrncs&show_icons=true&theme=dracula&count_private=true) 
 
