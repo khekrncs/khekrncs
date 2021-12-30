@@ -5,9 +5,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=khekrn.khekrn)
 
-I am a Senior software engineer and I love programming, writing, speaking and traveling.
-
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things which bring's ideas to life.
+I'm a Senior software engineer who is working on building reliable and scalable financial systems. I enjoy using my obsessive attention to detail, my unequivocal love for building things that bring's ideas to life.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=khekrncs&show_icons=true&theme=dracula&count_private=true) 
 
