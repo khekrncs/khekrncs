@@ -17,7 +17,6 @@
 - 	**Python**.
 - 	**NoSQL** (MongoDB, HBase).
 - 	**SQL** (MySQL, PostgreSQL).
-- 	**Elixir**.
 - 	**Typescript**.
 - 	**Docker**.
 - 	**Redis**.
