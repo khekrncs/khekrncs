@@ -11,10 +11,10 @@
 
 
 # 💬 Ask me about:
-- 	**JVM** (Java, Kotlin, Scala, Spring Boot, Quarkus, Micronaut).
-- 	**Zig**.
+- 	**JVM** (Java, Kotlin, Spring Boot, Micronaut).
 - 	**Go**.
 - 	**Python**.
+- 	**Zig**.
 - 	**NoSQL** (MongoDB, HBase).
 - 	**SQL** (MySQL, PostgreSQL).
 - 	**Typescript**.
